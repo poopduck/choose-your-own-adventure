@@ -1,0 +1,8 @@
+2
+game_over_burn
+jail_k_2
+
+You try to put the key in the keyhole and it fits! You've successfully open the door! However, as you step out of the 
+room, it is pitch black outside. What will you do?
+(1) Venture out into the darkness
+(2) Return to the jail cell

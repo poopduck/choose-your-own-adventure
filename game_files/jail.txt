@@ -1,0 +1,10 @@
+3
+
+check_door
+second_room
+investigate_jail
+
+You wake up in an abandoned jail cell. A single lightbulb hangs from the ceiling. You cannot see outside the metal bars, as it is too dark outside. You notice what appears to be a small hole near the back of the room that you might be able to squeeze into. What do you do?
+(1) Check the door of the jail cell.
+(2) Enter the hole
+(3) Investigate the room

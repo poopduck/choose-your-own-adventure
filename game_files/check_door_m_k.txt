@@ -1,0 +1,10 @@
+3
+game_over_burn
+jail_m_k_2
+illuminate
+
+You try to put the key in the keyhole and it fits! You've successfully open the door! However, as you step out of the 
+room, it is pitch black outside. What will you do?
+(1) Venture into the darkness
+(2) Return to the jail cell
+(3) Use the match you found to light up the wooden floor tile to use as a torch 

@@ -1,0 +1,13 @@
+3
+
+game_over_stuck
+investigate_second_room_m
+jail_m
+
+You enter the hole and find that it is actually a tunnel. As you go through it, you emerge into another room. Again 
+there appears to be a hole in the back of the room that you might be able to squeeze into, although it seems 
+significantly smaller than the other one. Other than the tunnel you just emerged from and the hole in the back, 
+there appears to be no other entrances or exits.
+(1) Enter the hole
+(2) Further investigate the room
+(3) Return the way you came from to the first room

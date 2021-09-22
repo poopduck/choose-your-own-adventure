@@ -1,0 +1,11 @@
+3
+check_door_k
+second_room_k
+investigate_jail_k
+
+You're back in the jail cell. Again, a single lightbulb hangs from the ceiling. You cannot see outside the metal bars, 
+as it is too dark outside. You notice what appears to be a small hole near the back of the room that you might be able 
+to squeeze into. What do you do?
+(1) Check the door of the jail cell.
+(2) Enter the hole
+(3) Investigate the room

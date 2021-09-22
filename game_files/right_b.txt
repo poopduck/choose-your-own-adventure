@@ -1,0 +1,10 @@
+2
+
+game_over_sword
+game_over_punch_dragon
+
+You choose the right path and continue to run with the dragon right behind you. You reach the end of the path, 
+but unfortunately realize that it is a dead end. However, you see what appears to be a sword lying on the ground 
+a few feet away from you. What will you do?
+(1) Try and pick up the sword
+(2) Turn around and punch the dragon

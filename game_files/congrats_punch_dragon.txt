@@ -1,0 +1,8 @@
+0
+
+You turn around and swing your fist wildly at the dragon. You somehow hit the dragon squarely in the snout, 
+stunning it for a while. As it is dazed, you run past it and backtrack away from the dead end, instead 
+taking the left path. At the end of the path, you find a steel door and successfully open it. It leads outside. 
+The dragon tries to follow you, but it cannot fit through the door frame.
+
+Congratulations! You have succesfully escaped!

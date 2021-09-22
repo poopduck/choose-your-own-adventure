@@ -1,0 +1,7 @@
+2
+game_over_burn
+jail_k_2
+
+You open the door and exit back out into the darkness. What will you do?
+(1) Venture out into the darkness
+(2) Return to the jail cell

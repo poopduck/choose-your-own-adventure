@@ -1,0 +1,12 @@
+3
+
+left_b
+right_b
+game_over_idk
+
+As the dragon begins to give chase, you run to the opposite side of the dungeon towards a large tunnel opening, 
+which appears to be the exit. You enter the tunnel with the dragon hot on your heels. Suddenly, you come to a 
+fork in the tunnel, with one path leading to the left and the other to the right. Which way will you go?
+(1) The left tunnel
+(2) The right tunnel
+(3) I don't know?????????

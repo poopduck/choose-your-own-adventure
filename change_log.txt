@@ -1,0 +1,19 @@
+12/27/19
+- renamed investigate_second_room_2 to investigate_second_room_k to be consistent with the naming of other files, adjusted second_room_k   accordingly; have not tested yet
+- added notes.txt to help explain the file naming, might add more stuff and change to READ_ME.txt later
+
+12/28/19
+- made progress in the chase.txt path; added a couple of new files but the path is still incomplete
+
+1/1/2020
+- continued adding to the chase.txt path; confirmed that investigate_second_room_k does work 
+
+1/2/2020
+- added system("pause"), much better than Sleep
+- completed chase.txt, still need to test
+- added a checkpoint system to the code, allows user to choose to restart the game, start from the last checkpoint, or exit the game upon     completing the game or getting a game over
+- made progress on chase_b.txt
+
+1/09/2020
+- finished the game
+- screwed around with formatting

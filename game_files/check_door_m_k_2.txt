@@ -1,0 +1,9 @@
+3 
+game_over_burn
+jail_m_k_2
+illuminate
+
+You open the door and exit back out into the darkness. What do you do?
+(1) Venture into the darkness
+(2) Return to the jail cell
+(3) Use the match you found to light up the piece of wood and use it as a torch 

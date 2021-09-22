@@ -1,0 +1,9 @@
+3
+punch_dragon
+sneak
+game_over_clawed
+
+You use your makeshift torch to illuminate the room and are glad you did, as you can now see a large dragon fast asleep in front of the entrance to the jail cell in what appears to be a large dungeon. What do you do?
+(1) Punch the dragon
+(2) Try and sneak past the dragon
+(3) Throw your torch at the dragon

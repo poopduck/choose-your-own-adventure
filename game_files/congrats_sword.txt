@@ -1,0 +1,7 @@
+0
+
+You successfully pick up the sword and turn around in the nick of time, slashing the dragon's neck 
+and slaying it in an epic matter. With the dragon dead, you backtrack away from the dead end and instead 
+take the left path. At the end of the path, you find a steel door and successfully open it. It leads outside. 
+
+Congratulations! You have succesfully escaped!

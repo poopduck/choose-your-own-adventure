@@ -1,0 +1,33 @@
+//file format
+/**
+<Number of possible choices in this file> //needed in order to load the files below into a vector
+<file_1> //all the possible files that each corresponding choice will lead to
+<file_2>
+...
+<file_N>
+
+<text> //story text for user, prompts them to choose an action
+<choice 1> //each choice connects to its corresponding file
+<choice 2>
+...
+<choice N>
+
+*/
+
+//example:
+/**
+3
+living_room
+game_over
+key_found
+
+You're in a bathroom with a sleeping dragon. What will you do?
+1. Go to the living room
+2. Punch the dragon
+3. Search the room
+
+*/
+
+- 2 after a game file name denotes that it is the second time coming back to that particular situation or room, which allows for
+  slightly different text based off of the story situation, or different choices w/ different results based on the 
+  users' previous actions 

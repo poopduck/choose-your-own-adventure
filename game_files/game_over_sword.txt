@@ -1,0 +1,7 @@
+0
+
+You bend down to pick up the sword. However, you remember that your hand is broken and cannot successfully pick it up, 
+while your other hand is occupied holding the torch. As you panic, the dragon catches up to you and crushes your head 
+with its sharp claws.
+
+GAME OVER X_X

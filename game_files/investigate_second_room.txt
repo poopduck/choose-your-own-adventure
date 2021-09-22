@@ -1,0 +1,5 @@
+1
+second_room_k
+
+You closely inspect the room and find that one of the floor tiles is loose. As you lift it, you find a key! 
+You take the key along with the wooden floor tile.

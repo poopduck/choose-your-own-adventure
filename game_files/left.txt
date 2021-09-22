@@ -1,0 +1,9 @@
+2
+
+congrats_try_door
+game_over_investigate
+
+You choose the left path and continue to run with the dragon right behind you. You reach the end of the path and see a 
+large steel door blocking your way. What will you do?
+(1) Try the door
+(2) Investigate around you

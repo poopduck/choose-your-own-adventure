@@ -1,0 +1,4 @@
+1
+jail_2
+
+You try to open the door, but it is locked. There is a keyhole on the door; looks like you'll need to find a key.
